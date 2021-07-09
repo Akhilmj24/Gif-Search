@@ -1,0 +1,38 @@
+.main-container {
+  max-width: 1000px;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img {
+  margin: 15px;
+}
+.header {
+  margin: 35px;
+}
+.header .form {
+  border-bottom: 1px solid gainsboro;
+  border-top: 1px solid gainsboro;
+ 
+}
+.header input {
+  width: 40%;
+  height: 25px;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  padding: 5px;
+  color: white;
+  font-size: 20px;
+  margin: 15px;
+}
+.header button {
+  height: 38px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.header .fas {
+  font-size: 18px;
+  color: rgba(248, 248, 255, 0.651);
+}
